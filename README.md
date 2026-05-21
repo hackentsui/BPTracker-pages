@@ -19,11 +19,13 @@ BPTracker is a simple blood pressure tracking app designed to help users record 
 
 If you need help with the BPTracker app, please open an issue in this repository.
 
-To contact support:
+To request support:
 
 1. Go to the Issues tab
 2. Create a new issue
 3. Describe your question or problem clearly
+
+Please do not include personal health information or sensitive personal data when opening a public GitHub issue.
 
 We will review support requests submitted through GitHub Issues.
 
@@ -52,3 +54,5 @@ If the app stores data locally on the user’s device, users may delete their re
 ## Contact
 
 For support requests, please use the Issues tab in this repository.
+
+Please do not include personal health information or sensitive personal data in public support requests.
