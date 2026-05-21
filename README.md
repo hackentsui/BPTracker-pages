@@ -12,17 +12,16 @@ BPTracker is a simple blood pressure tracking app designed to help users record 
 * Record pulse rate
 * Add notes for each reading
 * View recent records
-* Export or review saved data where supported
 * Designed for personal health tracking reference
 
 ## Support
 
-For support, please contact us by email:
+If you need help with the BPTracker app, please open an issue in this repository.
 
-hackentsui@gmail.com
-
-You may also open an issue in this repository if you need help with the app.
+Go to the Issues tab and create a new issue with your question or problem.
 
 ## Privacy
 
-BPTracker is designed for personal use. Please refer to the app privacy information provided in the App Store listing.
+BPTracker is designed for personal use. The app does not require users to publish personal information on this support page.
+
+Please refer to the App Store privacy information for more details.
